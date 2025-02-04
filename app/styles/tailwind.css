@@ -4,8 +4,9 @@
 
 @layer base {
 	:root {
-		/* --font-sans: here if you have one */
-		/* --font-mono: here if you got it... */
+		/* Custom default fonts */
+		--font-sans: 'Sohne', sans-serif;
+		--font-mono: 'Sohne-mono', ui-monospace;
 
 		/* prefixed with foreground because it should look good on the background */
 		--foreground-destructive: 345 82.7% 40.8%;

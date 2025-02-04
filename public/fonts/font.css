@@ -1,0 +1,152 @@
+/* Light */
+@font-face {
+	font-family: 'Sohne';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url(/fonts/sohne/test-soehne-leicht.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Light Italic */
+@font-face {
+	font-family: 'Sohne';
+	font-style: italic;
+	font-weight: 300;
+	font-display: swap;
+	src: url(/fonts/sohne/test-soehne-leicht-kursiv.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Regular */
+@font-face {
+	font-family: 'Sohne';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(/fonts/sohne/soehne-buch.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Regular Italic */
+@font-face {
+	font-family: 'Sohne';
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url(/fonts/sohne/soehne-buch-kursiv.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Medium */
+@font-face {
+	font-family: 'Sohne';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url(/fonts/sohne/test-soehne-kraftig.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Medium Italic */
+@font-face {
+	font-family: 'Sohne';
+	font-style: italic;
+	font-weight: 500;
+	font-display: swap;
+	src: url(/fonts/sohne/test-soehne-kraftig-kursiv.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Semi-bold */
+@font-face {
+	font-family: 'Sohne';
+	font-style: normal;
+	font-weight: 600;
+	font-display: swap;
+	src: url(/fonts/sohne/soehne-halbfett.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Semi-bold Italic */
+@font-face {
+	font-family: 'Sohne';
+	font-style: Italic;
+	font-weight: 600;
+	font-display: swap;
+	src: url(/fonts/sohne/soehne-halbfett-kursiv.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Bold */
+@font-face {
+	font-family: 'Sohne';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url(/fonts/sohne/test-soehne-dreiviertelfett.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Bold Italic */
+@font-face {
+	font-family: 'Sohne';
+	font-style: Italic;
+	font-weight: 700;
+	font-display: swap;
+	src: url(/fonts/sohne/test-soehne-dreiviertelfett-kursiv.woff2)
+		format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Black */
+@font-face {
+	font-family: 'Sohne';
+	font-style: normal;
+	font-weight: 800;
+	font-display: swap;
+	src: url(/fonts/sohne/test-soehne-fett.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Black Italic */
+@font-face {
+	font-family: 'Sohne';
+	font-style: Italic;
+	font-weight: 800;
+	font-display: swap;
+	src: url(/fonts/sohne/test-soehne-fett-kursiv.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* ------------------ Mono ------------------ */
+
+/* Light Mono */
+@font-face {
+	font-family: 'Sohne-mono';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url(/fonts/sohne_mono/test-soehne-mono-leicht.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Regular Mono */
+@font-face {
+	font-family: 'Sohne-mono';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url(/fonts/sohne_mono/test-soehne-mono-buch.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
+
+/* Medium Mono */
+@font-face {
+	font-family: 'Sohne-mono';
+	font-style: normal;
+	font-weight: 500;
+	font-display: swap;
+	src: url(/fonts/sohne_mono/test-soehne-mono-kraftig.woff2) format('woff2');
+	font-feature-settings: 'ss01' 1;
+}
